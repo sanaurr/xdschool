@@ -192,7 +192,7 @@ export default function App() {
                     style={{ width: "150px", height: "150px" }}
                   />
                   <a
-                    href="https://wa.me/1234567890"
+                    href="https://wa.me/+60146744662"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700"
